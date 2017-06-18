@@ -1,0 +1,1 @@
+ while true; do python goldeneye.py https://dawaalhaq.com; sleep 3; done
