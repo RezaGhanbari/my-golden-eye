@@ -6,7 +6,7 @@ GoldenEye is a HTTP DoS Test Tool.
 
 Attack Vector exploited: HTTP Keep Alive + NoCache
 
-## Usage
+# Usage
 
      USAGE: ./goldeneye.py <url> [OPTIONS]
     
